@@ -1,4 +1,8 @@
 my demo log 
 my windows commit demo log
 
+// <<<<<<< HEAD
 person2 write demo.log
+// =======
+person1 write demo.log
+// >>>>>>> dac4b7451cadb07a21ded1a656dc2b4112acf335
